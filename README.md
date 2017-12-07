@@ -1,4 +1,4 @@
-## Lathan Git Branching
+## Latihan Git Branching
 
 1. Master
 2. Develop
@@ -12,3 +12,4 @@
 
 v1.0
 7 Dec 2017 - Tambah Slider
+v1.0.1 - benerin typo Latihan
