@@ -7,7 +7,7 @@
 <style type="text/css">
 .item {
 	background: #0099ff;
-	padding: 40px;
+	padding: 20px 50px;
 }
 </style>
 </head>
